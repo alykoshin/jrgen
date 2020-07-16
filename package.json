@@ -31,7 +31,7 @@
     "fs-extra": "^9.0.0",
     "glob": "^7.1.6",
     "json-schema-ref-parser": "^9.0.1",
-    "json-schema-to-typescript": "^9.1.0",
+    "json-schema-to-typescript": "../json-schema-to-typescript",
     "jsonlint": "^1.6.3",
     "jsonschema": "^1.2.6",
     "markdown-table": "^2.0.0",
