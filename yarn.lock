@@ -273,10 +273,9 @@ json-schema-ref-parser@^9.0.1:
   dependencies:
     "@apidevtools/json-schema-ref-parser" "9.0.1"
 
-json-schema-to-typescript@^9.1.0:
+"json-schema-to-typescript@git+https://git@github.com/alykoshin/json-schema-to-typescript#wcgen":
   version "9.1.0"
-  resolved "https://registry.yarnpkg.com/json-schema-to-typescript/-/json-schema-to-typescript-9.1.0.tgz#ad2650130a25d29eec7f5746c9aa2441ff2e394c"
-  integrity sha512-9/yDXQQyqtRDxohQGRCKht4Wjfg73TALi1yzy651EOo71a6aKFtIm2WUbDWSf8OitFGukUn00dx4t1kg0W6O4Q==
+  resolved "git+https://git@github.com/alykoshin/json-schema-to-typescript#f2b12f3da65cc95d5db49e2c4faa16828cae0e54"
   dependencies:
     "@types/json-schema" "^7.0.4"
     cli-color "^2.0.0"
